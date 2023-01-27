@@ -5,7 +5,7 @@ To develop a Django application to store and retrieve data from a database using
 
 ## Entity Relationship Diagram
 
-![OUTPUT](.dataproject/dataapp/Images/ER.png)
+![OUTPUT](./Images/ER.png)
 
 ## DESIGN STEPS
 
@@ -38,7 +38,7 @@ HTML FILE
 
 ## OUTPUT
 
-![OUTPUT](.dataproject/dataapp/Images/Admin.png)
+![OUTPUT](./Images/Admin.png)
 
 ## RESULT:
 The program is executed successfully.
